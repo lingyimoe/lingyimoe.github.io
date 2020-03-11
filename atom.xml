@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lingyimoe.github.io</id>
     <title>绫依の阁楼</title>
-    <updated>2020-03-11T03:07:39.376Z</updated>
+    <updated>2020-03-11T03:25:46.471Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lingyimoe.github.io"/>
     <link rel="self" href="https://lingyimoe.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>一个热爱二次元技术宅的网站</subtitle>
     <logo>https://lingyimoe.github.io/images/avatar.png</logo>
     <icon>https://lingyimoe.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 绫依の阁楼</rights>
