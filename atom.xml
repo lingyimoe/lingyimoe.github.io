@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lingyimoe.github.io</id>
     <title>绫依の阁楼</title>
-    <updated>2020-03-11T09:47:50.607Z</updated>
+    <updated>2020-03-12T01:26:44.801Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lingyimoe.github.io"/>
     <link rel="self" href="https://lingyimoe.github.io/atom.xml"/>
@@ -10,6 +10,28 @@
     <logo>https://lingyimoe.github.io/images/avatar.png</logo>
     <icon>https://lingyimoe.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 绫依の阁楼</rights>
+    <entry>
+        <title type="html"><![CDATA[Hello,world!]]></title>
+        <id>https://lingyimoe.github.io/post/helloworld/</id>
+        <link href="https://lingyimoe.github.io/post/helloworld/">
+        </link>
+        <updated>2020-03-12T00:35:16.000Z</updated>
+        <content type="html"><![CDATA[<p>很高兴你能点进这篇博客。<br>
+因为我热爱二次元和编程，<br>
+所以以后在本站会发一些ACG资讯，Python教程（当然还有其他的编程语言）和我的一些生活日常。</p>
+<h1 id="markdown测试">Markdown测试</h1>
+<h1 id="标题">标题</h1>
+<p><em>斜体</em><br>
+<strong>加粗</strong><br>
+B站传送门<a href="https://www.bilibili.com/">bilibili</a><br>
+<s>删除线</s></p>
+<blockquote>
+<p>引用<br>
+<code>Python</code><br>
+<img src="https://lingyimoe.github.io/post-images/1583976185006.jpg" alt="id=44873217" loading="lazy"></p>
+</blockquote>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://lingyimoe.github.io/post/hello-gridea/</id>
