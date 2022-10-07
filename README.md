@@ -1,0 +1,2 @@
+# lingyimoe.github.io
+hexo
